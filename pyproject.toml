@@ -5,6 +5,9 @@ description = "Calculate word counts in a text file"
 authors = ["Dmitry Labazkin"]
 license = "MIT"
 readme = "README.md"
+packages = [
+    { include = "pycounts", from = "src" }
+]
 
 [tool.poetry.dependencies]
 python = "^3.11"
