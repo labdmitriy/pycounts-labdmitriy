@@ -10,8 +10,8 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.11"
-matplotlib = "^3.9.2"
+python = ">=3.11"
+matplotlib = ">=3.9.2"
 
 [tool.poetry.dev-dependencies]
 
