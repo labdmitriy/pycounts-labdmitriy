@@ -40,10 +40,10 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `pycounts_labdmitriy` for local development.
+Ready to contribute? Here's how to set up `pycounts-labdmitriy` for local development.
 
-1. Download a copy of `pycounts_labdmitriy` locally.
-2. Install `pycounts_labdmitriy` using `poetry`:
+1. Download a copy of `pycounts-labdmitriy` locally.
+2. Install `pycounts-labdmitriy` using `poetry`:
 
     ```console
     $ poetry install
@@ -69,5 +69,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `pycounts_labdmitriy` project is released with a
+Please note that the `pycounts-labdmitriy` project is released with a
 Code of Conduct. By contributing to this project you agree to abide by its terms.

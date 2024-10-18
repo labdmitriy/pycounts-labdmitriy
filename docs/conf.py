@@ -6,9 +6,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts_labdmitriy"
-copyright = u"2024, Dmitry Labazkin"
-author = u"Dmitry Labazkin"
+project = "pycounts-labdmitriy"
+copyright = "2024, Dmitry Labazkin"
+author = "Dmitry Labazkin"
 
 # -- General configuration ---------------------------------------------------
 
