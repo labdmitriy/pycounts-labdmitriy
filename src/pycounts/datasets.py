@@ -13,6 +13,6 @@ def get_flatland():
     ----------
     .. [1] E. A. Abbott, "Flatland", Seeley & Co., 1884.
     """
-    with resources.path("pycounts.data", "flatland.txt") as f:
-        data_file_path = f
+    resource_path = resources.files("pycounts.data")
+    data_file_path = resource_path / "flatland.txt"
     return data_file_path
