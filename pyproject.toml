@@ -22,7 +22,21 @@ jupyterlab = "^4.2.5"
 myst-nb = "^1.1.2"
 sphinx-autoapi = "^3.3.2"
 sphinx-rtd-theme = "^3.0.1"
+click-option-group = { version = "^0.5.6", python = ">=3.11,<4" }
+python-semantic-release = "^9.12.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.semantic_release]
+version_variable = "pyproject.toml:version"
+major_on_zero = false
+
+[tool.semantic_release.commit_parser_options]
+allowed_tags = ["build", "chore", "ci", "docs", "feat", "fix", "perf", "style", "refactor", "test"]
+minor_tags = ["feat"]
+patch_tags = ["fix", "perf"]
+
+[tool.semantic_release.changelog]
+mode = "update"
