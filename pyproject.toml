@@ -32,6 +32,9 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.semantic_release]
 version_toml = ["pyproject.toml:tool.poetry.version"]
+branch = "master"                                       
+changelog_file = "CHANGELOG.md"                       
+build_command = "pip install poetry && poetry build"
 major_on_zero = false
 
 [tool.semantic_release.commit_parser_options]
