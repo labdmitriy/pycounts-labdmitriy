@@ -2,6 +2,19 @@
 
 <!-- version list -->
 
+## v0.3.0 (2024-10-22)
+
+### Build System
+
+* build: add token for Codecov ([`8dc2071`](https://github.com/labdmitriy/pycounts-labdmitriy/commit/8dc20711a8ce2c1cd21b38868e0ab2f28762bcc3))
+
+* build: add CI workflow ([`e36c616`](https://github.com/labdmitriy/pycounts-labdmitriy/commit/e36c616c1300dda6d4a1b9a164a7a7f6bb0fd2b4))
+
+### Features
+
+* feat: add CI/CD workflow ([`2af1565`](https://github.com/labdmitriy/pycounts-labdmitriy/commit/2af15656b193b65d0d7e3219ece097840f772ccc))
+
+
 ## v0.2.0 (2024-10-22)
 
 ### Bug Fixes
