@@ -2,13 +2,13 @@
 
 Calculate word counts in a text file
 
-![GitHub Release](https://img.shields.io/github/v/release/labdmitriy/pycounts-labdmitriy?style=flat-square)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/labdmitriy/pycounts-labdmitriy/ci-cd.yml?style=flat-square)
-![GitHub License](https://img.shields.io/github/license/labdmitriy/pycounts-labdmitriy?style=flat-square)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/labdmitriy/pycounts-labdmitriy/total?style=flat-square)
-![GitHub Repo stars](https://img.shields.io/github/stars/labdmitriy/pycounts-labdmitriy?style=flat-square)
-![GitHub Open Issues](https://img.shields.io/github/issues-raw/labdmitriy/pycounts-labdmitriy)
-![Read the Docs](https://img.shields.io/readthedocs/pycounts-labdmitriy)
+[![GitHub Release](https://img.shields.io/github/v/release/labdmitriy/pycounts-labdmitriy?style=flat-square)](https://github.com/labdmitriy/pycounts-labdmitriy/releases)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/labdmitriy/pycounts-labdmitriy/ci-cd.yml?style=flat-square)](https://github.com/labdmitriy/pycounts-labdmitriy/actions/workflows/ci-cd.yml)
+[![GitHub License](https://img.shields.io/github/license/labdmitriy/pycounts-labdmitriy?style=flat-square)](https://opensource.org/license/MIT)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/labdmitriy/pycounts-labdmitriy/total?style=flat-square)](https://pypistats.org/packages/pycounts-labdmitriy)
+[![GitHub Repo stars](https://img.shields.io/github/stars/labdmitriy/pycounts-labdmitriy?style=flat-square)](https://star-history.com/#labdmitriy/pycounts-labdmitriy)
+[![GitHub Open Issues](https://img.shields.io/github/issues-raw/labdmitriy/pycounts-labdmitriy)](https://github.com/labdmitriy/pycounts-labdmitriy/issues)
+[![Read the Docs](https://img.shields.io/readthedocs/pycounts-labdmitriy)](https://pycounts-labdmitriy.readthedocs.io/)
 
 ## Installation
 
